@@ -1,0 +1,57 @@
+.applogo {
+    width: 60px;
+    height: 60px;
+}
+
+#brand {
+    font-size: 40px;
+}
+
+#gallery_icon {
+    height: 260px;
+    width: 260px;
+}
+
+.main-container {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.grid-item {
+    margin: 0 auto;
+}
+
+figcaption {
+    text-align: center;
+}
+
+.booth {
+    width: 420px;
+    background-color: #ccc;
+    border: 10px solid #ddd;
+    margin: 0 auto;
+}
+
+.capture-button {
+    display: block;
+    margin: 10px 0;
+    padding: 10px 20px;
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+#canvas {
+    display: none;
+}
+
+#upload_image {
+    height: 200px;
+    width: 200px;
+}
+
+.camera_btn {
+    text-decoration: none;
+    color: antiquewhite;
+}
